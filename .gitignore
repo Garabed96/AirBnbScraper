@@ -1,2 +1,4 @@
 client_secret.json
 airbnb_rentals.csv
+.idea
+__pycache__
